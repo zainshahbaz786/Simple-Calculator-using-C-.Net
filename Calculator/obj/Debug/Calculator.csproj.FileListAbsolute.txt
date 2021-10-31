@@ -1,0 +1,10 @@
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\zainj\Downloads\Compressed\WindowsCalculator-master\WindowsCalculator-master\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
